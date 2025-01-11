@@ -7,7 +7,7 @@ body{
     background: plum;
 }
 .container{
-    border: 3px dashed lightgoldenrodyellow;
+    /* border: 3px dashed lightgoldenrodyellow; */
     width: 90%;
     margin: auto;
     display: flex;
